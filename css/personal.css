@@ -196,7 +196,7 @@ section.about {
   position: relative;
   text-align: center;
   cursor: default;
-  background: #2C3E50;
+  background: grey;
   /*margin: 0 0 15px;
   right: 0;*/
 }
