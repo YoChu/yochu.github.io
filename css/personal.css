@@ -121,7 +121,7 @@ header .intro-text .skills {
 .navbar-custom .navbar-toggle {
   color: white;
   /*text-transform: uppercase;*/
-  font-size: 10px;
+  font-size: 30px;
   border-color: white;
 }
 .navbar-custom .navbar-toggle:hover,
@@ -243,7 +243,7 @@ section.about {
 /*  text-transform: uppercase;*/
   text-align: center;
   position: relative;
-  font-size: 17px;
+  font-size: 30px;
   background-color: transparent;
   color: #FFF;
   padding: 1em 0;
