@@ -61,7 +61,7 @@ header .intro-text .skills {
 .container-pad{
   padding-left: 5%;
   padding-right: 5%;
-  padding-top: 40px;
+  padding-top: 35px;
 }
 
 .navbar {
@@ -69,8 +69,9 @@ header .intro-text .skills {
     margin-bottom: 0px;
 }
 
+/*color of menu bars*/
 .icon-bar{
-    background-color: #696969;
+    background-color: #7d8d92;
 }
 
 .navbar-custom {
@@ -145,8 +146,8 @@ header .intro-text .skills {
 
 @media (min-width: 500px) {
   .navbar-custom {
-    padding-top: 15px;
-    padding-bottom: 13px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     -webkit-transition: padding 0.3s;
     -moz-transition: padding 0.3s;
     transition: padding 0.3s;
@@ -339,4 +340,11 @@ footer .footer-above {
   max-width: 400px;
 }
 
+h1 {
+  padding-top: 0px;
+  padding-bottom: 5px;
+}
 
+#Projects {
+  color: #7d8d92;
+}
