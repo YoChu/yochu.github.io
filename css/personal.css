@@ -5,7 +5,7 @@ by Zain Nayer
 
 body {
     /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-    background-color: #ffffff;
+    background-color: #f9f9f9;
     overflow-x: hidden;
 }
 
@@ -77,7 +77,7 @@ header .intro-text .skills {
   background: #ffffff;
   font-family: 'Questrial', sans-serif;
   /*text-transform: uppercase;*/
-  letter-spacing: 2px;
+  letter-spacing: 2.5px;
   font-weight: bolder;
   border: none;
 }
@@ -85,38 +85,51 @@ header .intro-text .skills {
 .navbar-custom a:focus {
   outline: none;
 }
+
+/*Brand text color*/
 .navbar-custom .navbar-brand {
-  color: #696969;
+  color: #7d8d92;
 }
+
+/*Brand text hover color*/
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: #ECF0F1;
+  color: #c1d9e4;
 }
+
+
 .navbar-custom .navbar-nav {
   letter-spacing: 2px;
 }
+
+/*navbar text color*/
 .navbar-custom .navbar-nav li a {
-  color: #696969;
+  color: #7d8d92;
+  background: white;
 }
+
+/*navbar text color when hovered over*/
 .navbar-custom .navbar-nav li a:hover {
-  color: deepskyblue;
+  color: lightgrey;
   outline: none;
 }
+
+
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
-  color: #E74C3C;
+  color: #60afc1;
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: deepskyblue;
+  background: lightgrey;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: deepskyblue;
+  background: lightgrey;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -126,7 +139,7 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: deepskyblue;
+  background-color: lightgrey;
   color: white;
 }
 
@@ -267,7 +280,7 @@ section.about {
 }
 
 .hovereffect p {
-  color: #ECF0F1;
+  color: #FFF;
   font-weight: 600;
   padding: 1em 0;
   opacity: 0;
@@ -294,13 +307,14 @@ section.about {
   margin-top: 15px;
 }
 
+/*Contact button colors*/
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: deepskyblue;
+  color: lightgrey;
   background: white;
-  border: solid 2px deepskyblue;
+  border: solid 2px lightgrey;
 }
 
 .btn-social {
@@ -324,3 +338,5 @@ footer .footer-above {
   shape-image-threshold: circle;
   max-width: 400px;
 }
+
+
