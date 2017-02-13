@@ -282,7 +282,7 @@ section.about {
 .hovereffect p {
   color: #FFF;
   font-weight: 600;
-  padding: 1em 0;
+  padding: 0;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
