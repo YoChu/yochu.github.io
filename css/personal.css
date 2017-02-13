@@ -112,7 +112,7 @@ header .intro-text .skills {
 
 /*navbar text color when hovered over*/
 .navbar-custom .navbar-nav li a:hover {
-  color: lightgrey;
+  color: #c1d9e4;
   outline: none;
 }
 
