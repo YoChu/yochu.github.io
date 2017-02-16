@@ -349,8 +349,9 @@ h1 {
 .jumbotron {
   background-color: white;
   padding-bottom: 0px;
+  color: #2f2f2f;
 }
 
 .img-pad {
-  padding-top: 5px;
+  padding-bottom: 8px;
 }
