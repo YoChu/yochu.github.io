@@ -366,6 +366,10 @@ h1 {
   padding-left: 0px;
 }
 
+.img-pad-mid {
+  padding-right: 2px;
+  padding-left: 2px;
+}
 h5 {
   float: right;
 }
