@@ -19,7 +19,7 @@ p, div {
 header {
   text-align: center;
 /*  background: #458C6B;*/
-  color: #696969;
+  color: #4f595d;
 }
 header .container {
   padding-top: 50px;
@@ -88,7 +88,7 @@ header .intro-text .skills {
 
 /*Brand text color*/
 .navbar-custom .navbar-brand {
-  color: #7d8d92;
+  color: #4f595d;
 }
 
 /*Brand text hover color*/
@@ -106,7 +106,7 @@ header .intro-text .skills {
 
 /*navbar text color*/
 .navbar-custom .navbar-nav li a {
-  color: #7d8d92;
+  color: #4f595d;
   background: none;
 }
 
@@ -180,7 +180,7 @@ section h2 {
   letter-spacing: 1.5px;
   /*text-transform: uppercase;*/
   font-weight: bolder;
-  color: #696969;
+  color: #4f595d;
 }
 
 @media (max-width: 500px) {
@@ -338,7 +338,7 @@ h1 {
 
 
 #Projects {
-  color: #7d8d92;
+  color: #4f595d;
 }
 
 .about-pad {
@@ -349,7 +349,7 @@ h1 {
 .jumbotron {
   background-color: white;
   padding-bottom: 0px;
-  color: #2f2f2f;
+  color: #4f595d;
 }
 
 .img-pad {
