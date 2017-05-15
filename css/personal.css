@@ -373,3 +373,16 @@ h1 {
 h5 {
   float: right;
 }
+
+.jumbotron h2 {
+  font-size: 2em;
+  margin-top: 0px;
+}
+
+.jumbotron h1 {
+  margin-bottom: .5px;
+}
+
+.jumbotron p {
+  font-size: 1em;
+}
