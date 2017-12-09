@@ -193,9 +193,13 @@ section h2 {
 }
 
 .grid-item {
-	padding-right: 5px;
-	padding-left: 5px;
-	padding-bottom: 10px;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-bottom: 10px;
+}
+
+.nohover:hover{
+
 }
 
 .hovereffect {
@@ -265,7 +269,7 @@ section h2 {
   transform: translate3d(0,-100%,0);
 }
 
-.hovereffect a {
+/*.hovereffect a {
   color: #FFF;
   padding: 1em 0;
   opacity: 0;
@@ -274,7 +278,7 @@ section h2 {
   transition: opacity 0.35s, transform 0.35s;
   -webkit-transform: translate3d(0,100%,0);
   transform: translate3d(0,100%,0);
-}
+}*/
 
 .hovereffect p {
   color: #FFF;
